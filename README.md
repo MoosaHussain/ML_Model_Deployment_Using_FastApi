@@ -1,5 +1,5 @@
 # ML_Model_Deployment_Using_FastApi
-Create Your Machine Learning Model 
+**FastApi **
 In this Repository I created ML Model by using BankNote Authentication UCI Data from kaggle
 https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data
 Then make pkl file of traind model using Random Forest 
